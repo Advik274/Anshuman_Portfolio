@@ -7,7 +7,7 @@ This project showcases my **resume, skills, projects, and contact form** with sm
 
 ## 📸 Demo
 
-👉 [Live Demo](https://your-portfolio-link.com](https://advik274.github.io/Anshuman_Portfolio/)
+👉 [Live Demo](https://advik274.github.io/Anshuman_Portfolio/)
 
 ---
 
@@ -35,5 +35,6 @@ This project showcases my **resume, skills, projects, and contact form** with sm
 1. **Clone the repo**
    ```bash
    git clone https://github.com/your-username/portfolio.git
+
 
 
