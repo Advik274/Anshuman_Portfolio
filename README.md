@@ -1,6 +1,6 @@
 # 🌐 Personal Portfolio Website
 
-A modern and responsive personal portfolio website built with **HTML, CSS, and JavaScript**.  
+A modern and responsive personal portfolio website built with **HTML, CSS, and JavaScript**. 
 This project showcases my **resume, skills, projects, and contact form** with smooth animations and clean UI.
 
 ---
@@ -35,7 +35,9 @@ This project showcases my **resume, skills, projects, and contact form** with sm
 1. **Clone the repo**
    ```bash
    git clone https://github.com/Advik274/Anshuman_Portfolio.git
-
-
-
+   ```
+2. **Open `index.html` in your browser**
+   ```bash
+   open index.html
+   ```
 
