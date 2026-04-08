@@ -17,7 +17,7 @@ A modern and responsive personal portfolio website built with **HTML, CSS, and J
 - **Skills**: Technical and soft skills with proficiency indicators
 - **Projects**: Showcase of completed projects with descriptions and links
 - **Contact Form**: Functional form powered by [Formspree](https://formspree.io)
-- **Responsive Design**: Optimized for all device sizes
+- **Responsive Design**: Optimized for all device sizes (mobile, tablet, desktop)
 - **Animations**: Smooth transitions and hover effects
 - **Embedded Maps**: Google Maps integration for location
 
@@ -44,6 +44,9 @@ A modern and responsive personal portfolio website built with **HTML, CSS, and J
    ```
 3. **Open `index.html` in your browser**
    ```bash
+   # For Windows
+   start index.html
+   # For macOS/Linux
    open index.html
    ```
 
@@ -69,3 +72,4 @@ Anshuman_Portfolio/
 - Replace the Formspree endpoint in the contact form with your own
 - Update the Google Maps embed URL with your location coordinates
 - All images should be placed in the `assets/images/` directory
+- For cross-platform compatibility, use `open index.html` (macOS/Linux) or `start index.html` (Windows)
