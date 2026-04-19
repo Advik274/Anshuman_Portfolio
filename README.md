@@ -49,6 +49,7 @@ A modern and responsive personal portfolio website built with **HTML, CSS, and J
    # For macOS/Linux
    open index.html
    ```
+   > **Note**: On Windows, you can also double-click `index.html` to open it in your default browser.
 
 ---
 
@@ -73,3 +74,4 @@ Anshuman_Portfolio/
 - Update the Google Maps embed URL with your location coordinates
 - All images should be placed in the `assets/images/` directory
 - For cross-platform compatibility, use `open index.html` (macOS/Linux) or `start index.html` (Windows)
+- On Windows, you can also double-click `index.html` to open it in your default browser
